@@ -1,4 +1,4 @@
-# Farmais-App
+# Farmais
 Aplicação em Java Web focada no CRUD da área farmacêutica usando padrão MVC.
 
 Nesse projeto foi usado:
