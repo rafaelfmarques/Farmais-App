@@ -11,4 +11,4 @@ Nesse projeto foi usado:
 
 Para executar a aplicação, necessário inserir os dados do BD, como o usuario, senha e o nome do banco a partir da classe model.DAO.
 
-Por Rafael Fernandes Marques
+Por Rafael Fernandes Marques.
