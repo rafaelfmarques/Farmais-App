@@ -1,5 +1,5 @@
 # Farmais
-Aplicação em Java Web focada no CRUD da área farmacêutica usando padrão MVC.
+Aplicação em Java Web focada no CRUD da área farmacêutica para a matéria de Engenharia de Software III.
 
 Nesse projeto foi usado:
 
@@ -10,3 +10,5 @@ Nesse projeto foi usado:
 </ul>
 
 Para executar a aplicação, necessário inserir os dados do BD, como o usuario, senha e o nome do banco a partir da classe model.DAO.
+
+Por Rafael Fernandes Marques
